@@ -1,6 +1,6 @@
 # Kodluyoruz ilk site
 
-Bu site [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğumuz ik site. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor. 
+Bu site [Kodluyoruz](https://www.kodluyoruz.com) Front-End Eğitiminde oluşturduğumuz ik site. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor. 
 
 ## Installation
 öncelikle projeyi klonlayalım. [https://github.com/sebo61/kodluyoruzilkrepo.git](https://github.com/sebo61/kodluyoruzilkrepo.git)
